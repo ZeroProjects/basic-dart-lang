@@ -3,7 +3,9 @@
 ## New Project di VSCode
 
 ## Input console
-
+* standart string input
+* parse to integer
+* parse to double
 
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
